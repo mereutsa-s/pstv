@@ -1,0 +1,636 @@
+Uri: https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\pstv.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Russo+One&display=swap
+File Name: C:\Downloaded Web Sites\pstv.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\s\ptsans\v17\jizaRExUiTo99u79P0U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\s\ptsans\v17\jizfRExUiTo99u79B_mh4Ok.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/russoone/v16/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\s\russoone\v16\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/90519700
+File Name: C:\Downloaded Web Sites\pstv.ru\watch\90519700
+Content Type: image/gif
+
+Uri: https://pstv.ru/
+File Name: C:\Downloaded Web Sites\pstv.ru\index.htm
+Content Type: text/html
+
+Uri: https://pstv.ru/build/assets/app.92bbd04f.js
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\app.92bbd04f.js
+Content Type: application/javascript
+
+Uri: https://pstv.ru/build/assets/app.e4d4225c.css
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\app.e4d4225c.css
+Content Type: text/css
+
+Uri: https://pstv.ru/build/assets/app.e5198d1b.js
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\app.e5198d1b.js
+Content Type: application/javascript
+
+Uri: https://pstv.ru/build/assets/gift-service.72b5ac9d.js
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\gift-service.72b5ac9d.js
+Content Type: application/javascript
+
+Uri: https://pstv.ru/build/assets/Ramona-Bold.1700a10a.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\Ramona-Bold.1700a10a.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/build/assets/Ramona-Light.54293468.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\Ramona-Light.54293468.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/build/assets/swiper-bundle.min.028243bf.css
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\swiper-bundle.min.028243bf.css
+Content Type: text/css
+
+Uri: https://pstv.ru/build/assets/video-blur.7e3aa01f.png
+File Name: C:\Downloaded Web Sites\pstv.ru\build\assets\video-blur.7e3aa01f.png
+Content Type: image/png
+
+Uri: https://pstv.ru/docs/new_agreement_Partystation.docx.pdf
+File Name: C:\Downloaded Web Sites\pstv.ru\docs\new_agreement_Partystation.docx.pdf
+Content Type: application/pdf
+
+Uri: https://pstv.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\pstv.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://pstv.ru/images/bg/fifth-screen-mobile.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\fifth-screen-mobile.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/bg/fifth-screen-mobile.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\fifth-screen-mobile.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/bg/fifth-screen.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\fifth-screen.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/bg/fifth-screen.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\fifth-screen.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/bg/first-screen-mobile.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\first-screen-mobile.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/bg/first-screen-mobile.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\first-screen-mobile.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/bg/first-screen.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\first-screen.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/bg/first-screen.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\first-screen.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/bg/third-screen.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\third-screen.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/bg/third-screen.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\bg\third-screen.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/chrome.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\chrome.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/chrome.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\chrome.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\pstv.ru\images\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://pstv.ru/images/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\pstv.ru\images\favicon\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/images/gift.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\gift.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/gift.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\gift.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slide-holder.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slide-holder.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slide-holder.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slide-holder.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand1.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand1.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand1.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand1.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand2.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand2.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand2.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand2.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand3.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand3.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand3.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand3.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand4.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand4.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/left-hand4.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\left-hand4.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand1.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand1.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand1.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand1.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand2.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand2.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand2.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand2.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand3.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand3.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand3.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand3.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand4.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand4.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/right-hand4.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\right-hand4.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/slide1.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\slide1.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/slide2.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\slide2.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/slide3.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\slide3.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/slide4.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\slide4.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb1.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb1.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb2.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb2.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb2.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb2.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb3.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb3.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb3.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb3.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb4.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb4.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/main-slider/slides/thumb4.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\main-slider\slides\thumb4.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/partners/ruda.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\partners\ruda.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/feedback/decor.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\decor.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/feedback/decor.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\decor.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/feedback/dina.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\dina.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/feedback/dina.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\dina.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/feedback/plagiat.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\plagiat.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/feedback/plagiat.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\plagiat.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/feedback/rabbit.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\rabbit.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/feedback/rabbit.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\feedback\rabbit.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/fourth/crown.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\fourth\crown.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/fourth/crown.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\fourth\crown.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/fourth/owl.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\fourth\owl.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/fourth/owl.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\fourth\owl.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/fourth/star.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\fourth\star.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/fourth/star.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\fourth\star.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/second/first-item.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\first-item.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/first-item.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\first-item.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/second/fourth-item.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\fourth-item.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/fourth-item.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\fourth-item.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/second/numbers/1.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\numbers\1.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/numbers/2.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\numbers\2.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/numbers/3.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\numbers\3.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/numbers/4.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\numbers\4.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/second-item.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\second-item.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/second-item.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\second-item.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/second/third-item.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\third-item.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/second/third-item.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\third-item.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/second/video/stub.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\second\video\stub.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/sixth/tab1.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab1.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/images/screens/sixth/tab1.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab1.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/sixth/tab2.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab2.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/images/screens/sixth/tab2.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab2.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/sixth/tab3.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab3.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/images/screens/sixth/tab3.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab3.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/sixth/tab4.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab4.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/images/screens/sixth/tab4.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\sixth\tab4.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/subscription/cat.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\subscription\cat.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/subscription/cat.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\subscription\cat.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/subscription/games.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\subscription\games.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/subscription/games.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\subscription\games.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/subscription/konfeti.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\subscription\konfeti.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/subscription/konfeti.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\subscription\konfeti.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/tariffs/bear.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\bear.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/tariffs/bear.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\bear.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/tariffs/bottom-free.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\bottom-free.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/tariffs/bottom-free.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\bottom-free.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/tariffs/bottom.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\bottom.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/tariffs/bottom.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\bottom.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/tariffs/games.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\games.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/tariffs/games.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\games.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/tariffs/top-free.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\top-free.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/tariffs/top-free.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\top-free.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/images/screens/tariffs/top.png
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\top.png
+Content Type: image/png
+
+Uri: https://pstv.ru/images/screens/tariffs/top.webp
+File Name: C:\Downloaded Web Sites\pstv.ru\images\screens\tariffs\top.webp
+Content Type: image/webp
+
+Uri: https://pstv.ru/privacy
+File Name: C:\Downloaded Web Sites\pstv.ru\privacy.html
+Content Type: text/html
+
+Uri: https://pstv.ru/tv/
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\index.htm
+Content Type: text/html
+
+Uri: https://pstv.ru/tv/assets/few-players.8d403a00.svg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\few-players.8d403a00.svg
+Content Type: image/svg+xml
+
+Uri: https://pstv.ru/tv/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.450e40b0.woff
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\flUhRq6tzZclQEJ-Vdg-IuiaDsNa.450e40b0.woff
+Content Type: application/font-woff
+
+Uri: https://pstv.ru/tv/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.273150c4.woff2
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.273150c4.woff2
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/assets/index.62f76d92.css
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\index.62f76d92.css
+Content Type: text/css
+
+Uri: https://pstv.ru/tv/assets/index.9680d553.js
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\index.9680d553.js
+Content Type: application/javascript
+
+Uri: https://pstv.ru/tv/assets/Inter-Bold.412c068e.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\Inter-Bold.412c068e.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/assets/Inter-ExtraBold.d78d9777.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\Inter-ExtraBold.d78d9777.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/assets/Inter-Medium.a645f554.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\Inter-Medium.a645f554.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/assets/memes-bubble-mask.cd6085b5.svg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\memes-bubble-mask.cd6085b5.svg
+Content Type: image/svg+xml
+
+Uri: https://pstv.ru/tv/assets/only-player.4c8c4310.svg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\only-player.4c8c4310.svg
+Content Type: image/svg+xml
+
+Uri: https://pstv.ru/tv/assets/Ramona-Bold.1700a10a.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\Ramona-Bold.1700a10a.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/assets/Ramona-Light.54293468.ttf
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\assets\Ramona-Light.54293468.ttf
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/favicon.ico
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://pstv.ru/tv/favicon.ico'
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\favicon.ico'.html
+Content Type: text/html
+
+Uri: https://pstv.ru/tv/images/disconnected_bg.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\disconnected_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/tv/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://pstv.ru/tv/images/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\favicon\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://pstv.ru/tv/images/games/alien/bg/disconnected-players.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\alien\bg\disconnected-players.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/bg/bg.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\bg\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/bg/results-bg.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\bg\results-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/playing-field/cell-big.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\playing-field\cell-big.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/playing-field/trophy-cell-blue.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\playing-field\trophy-cell-blue.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/playing-field/trophy-cell-green.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\playing-field\trophy-cell-green.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/playing-field/trophy-cell-orange.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\playing-field\trophy-cell-orange.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/playing-field/trophy-cell-red.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\playing-field\trophy-cell-red.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/games/imaginarium/playing-field/trophy-cell-violet.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\games\imaginarium\playing-field\trophy-cell-violet.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/overlay/bg/error-bg.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\overlay\bg\error-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/tv/images/overlay/bg/pause_bg_new.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\overlay\bg\pause_bg_new.jpg
+Content Type: image/jpeg
+
+Uri: https://pstv.ru/tv/images/qr-welcome/arrow-bubble-2.png
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\qr-welcome\arrow-bubble-2.png
+Content Type: image/png
+
+Uri: https://pstv.ru/tv/images/qr_big_bg.jpg
+File Name: C:\Downloaded Web Sites\pstv.ru\tv\images\qr_big_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1627374-6025X
+File Name: C:\Downloaded Web Sites\pstv.ru\rtrg
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-20XLSVFREL
+File Name: C:\Downloaded Web Sites\pstv.ru\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\pstv.ru\iframe_api
+Content Type: text/javascript
+
